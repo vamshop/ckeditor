@@ -1,8 +1,8 @@
 {
-    "name": "vamshop/Ckeditor",
+    "name": "vamshop/ckeditor",
     "type": "cakephp-plugin",
-    "description": "Integrate Ckeditor with Croogo",
-    "homepage": "http://github.com/croogo/ckeditor",
+    "description": "Integrate Ckeditor with VamShop",
+    "homepage": "http://github.com/vamshop/ckeditor",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "croogo/croogo": "^3.0.1",
+        "vamshop/vamshop-core": "^3.0.1",
         "composer/installers": "~1.0"
     },
     "autoload": {
