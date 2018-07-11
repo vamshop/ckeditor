@@ -1,6 +1,6 @@
 {
 	"name" : "Ckeditor",
-	"description" : "Integrates CKEditor WYSIWYG editor into Croogo",
+	"description" : "Integrates CKEditor WYSIWYG editor into Vamshop",
 
 	"author" : "Fahad Ibnay Heylaal",
 	"authorEmail" : "contact@fahad19.com",
@@ -8,7 +8,7 @@
 
 	"dependencies": {
 		"plugins": [
-			"Croogo/Wysiwyg"
+			"Vamshop/Wysiwyg"
 		]
 	}
 }
